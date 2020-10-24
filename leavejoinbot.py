@@ -31,4 +31,4 @@ async def on_member_join(member):
     await welcome_channel.send("Welcome "+member.display_name)
 
 
-client.run('NzY5MzA4MjgwNDY3MjI2NjU1.X5NIKw.u6bjagkh13LMcr4cY4MCTqQZbAM')
+client.run('wow cool token')
